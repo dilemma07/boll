@@ -1,1 +1,3 @@
-# boll
+# maven-project
+
+Simple Maven Project
